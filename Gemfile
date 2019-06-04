@@ -9,6 +9,7 @@ gem 'sinatra', '~> 2.0.2'
     gem 'shotgun'
     gem 'pry'
     gem 'require_all'
+    gem 'byebug'
 
 group :test do
       gem 'rspec'
